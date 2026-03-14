@@ -2,7 +2,7 @@
 
 A machine learning project using Decision Tree Classifier for sentiment analysis on text comments.
 
-## Project Overview
+## Overview
 
 This project implements a sentiment classification model using:
 - **Algorithm**: Decision Tree Classifier
